@@ -1,4 +1,4 @@
-# GamingZones - Professional Portfolio Website
+# Peng - Professional Portfolio Website
 
 A modern, professional personal portfolio website built with HTML, CSS, and JavaScript. Hosted on GitHub Pages for free and accessible to anyone on the web.
 
@@ -33,7 +33,7 @@ A modern, professional personal portfolio website built with HTML, CSS, and Java
 
 #### Edit Your Information
 Open `index.html` and modify:
-- **Name**: Change "GamingZones" to your name
+- **Name**: Change "Peng" to your name
 - **Title**: Update "Professional Web Developer & Tech Enthusiast"
 - **About Section**: Update the biography and experience details
 - **Skills**: Modify the skill categories and items
@@ -63,7 +63,7 @@ The website uses CSS variables for easy color customization. Edit `style.css`:
 2. Select "New repository"
 3. **Important**: Name your repository `YOUR-USERNAME.github.io`
    - Replace `YOUR-USERNAME` with your actual GitHub username (all lowercase)
-   - Example: `gamingzones.github.io`
+   - Example: `peng.github.io`
 4. Add a description (optional)
 5. Make it **Public**
 6. Click "Create repository"
