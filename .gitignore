@@ -1,0 +1,17 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if using Node.js build tools in the future)
+node_modules/
+npm-debug.log
+
+# Build files
+dist/
+build/
